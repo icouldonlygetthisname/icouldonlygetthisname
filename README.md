@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @icouldonlygetthisname
+- 👀 I’m interested in Azure things, I am a Certified Azure Database Admin.
+- 🌱 I’m currently learning Azure DevOps
+- 💞️ I’m looking to collaborate on Powershell Scripts, I am not much of Developer so don't expect much.
+- 📫 How to reach me -- will reveal later :)
+
+<!---
+icouldonlygetthisname/icouldonlygetthisname is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
