@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icouldonlygetthisname
-- 👀 I’m interested in Azure things, I am a Certified Azure Database Admin.
-- 🌱 I’m currently learning Azure DevOps
+- 👀 I’m interested in Azure things, I am a Certified Azure Database Admin and Admin.
+- 🌱 I’m currently learning about Azure DevOps
 - 💞️ I’m looking to collaborate on Powershell Scripts, I am not much of Developer so don't expect much.
 - 📫 How to reach me -- will reveal later :)
 
