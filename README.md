@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @icouldonlygetthisname
 - 👀 I’m interested in Azure things, I am a Certified Azure Database Admin, Admin and Developer (long history of troubleshooting bad .net apps on IIS).
 - 🌱 I’m currently learning about Azure DevOps
-- 💞️ I’m looking to collaborate on Powershell Scripts, I am not much of Developer so don't expect much.
+- 💞️ I’m looking to collaborate on Powershell Scripts, I am not much of Developer.
 - 📫 How to reach me -- will reveal later :)
 
 <!---
